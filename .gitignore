@@ -1,0 +1,13 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+target/
+
+*.class
+*.war
+*.jar
+
+# mac os
+.DS_Store
