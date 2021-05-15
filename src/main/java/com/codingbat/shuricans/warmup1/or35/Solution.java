@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.or35;
+package com.codingbat.shuricans.warmup1.or35;
 
 /**
  * Warmup-1 > or35

@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.sleepIn;
+package com.codingbat.shuricans.warmup1.sleepIn;
 
 /**
  * Warmup-1 > sleepIn

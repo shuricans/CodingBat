@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.endUp;
+package com.codingbat.shuricans.warmup1.endUp;
 
 import java.util.Locale;
 

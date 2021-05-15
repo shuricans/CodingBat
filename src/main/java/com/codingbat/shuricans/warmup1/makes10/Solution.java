@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.makes10;
+package com.codingbat.shuricans.warmup1.makes10;
 
 /**
  * Warmup-1 > makes10

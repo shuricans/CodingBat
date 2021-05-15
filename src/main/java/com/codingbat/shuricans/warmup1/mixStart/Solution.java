@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.mixStart;
+package com.codingbat.shuricans.warmup1.mixStart;
 
 /**
  * Warmup-1 > mixStart

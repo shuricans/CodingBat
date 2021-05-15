@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.sumDouble;
+package com.codingbat.shuricans.warmup1.sumDouble;
 
 /**
  * Warmup-1 > sumDouble

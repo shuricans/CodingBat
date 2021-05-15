@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.sleepIn;
+package com.codingbat.shuricans.warmup1.sleepIn;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

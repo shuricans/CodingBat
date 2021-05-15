@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.nearHundred;
+package com.codingbat.shuricans.warmup1.nearHundred;
 
 /**
  * Warmup-1 > nearHundred

@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.diff21;
+package com.codingbat.shuricans.warmup1.diff21;
 
 /**
  * Warmup-1 > diff21

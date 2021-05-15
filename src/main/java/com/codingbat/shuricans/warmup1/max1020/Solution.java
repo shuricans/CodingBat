@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.max1020;
+package com.codingbat.shuricans.warmup1.max1020;
 
 /**
  * Warmup-1 > max1020

@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.stringE;
+package com.codingbat.shuricans.warmup1.stringE;
 
 /**
  * Warmup-1 > stringE

@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.everyNth;
+package com.codingbat.shuricans.warmup1.everyNth;
 
 /**
  * Warmup-1 > everyNth

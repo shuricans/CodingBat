@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.missingChar;
+package com.codingbat.shuricans.warmup1.missingChar;
 
 /**
  * Warmup-1 > missingChar

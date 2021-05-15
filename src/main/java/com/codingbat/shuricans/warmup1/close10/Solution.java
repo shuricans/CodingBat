@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.close10;
+package com.codingbat.shuricans.warmup1.close10;
 
 /**
  * Warmup-1 > close10

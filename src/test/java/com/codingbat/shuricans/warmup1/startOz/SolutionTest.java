@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.startOz;
+package com.codingbat.shuricans.warmup1.startOz;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

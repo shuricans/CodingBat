@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.monkeyTrouble;
+package com.codingbat.shuricans.warmup1.monkeyTrouble;
 /**
  * Warmup-1 > monkeyTrouble
  * https://codingbat.com/prob/p181646

@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.everyNth;
+package com.codingbat.shuricans.warmup1.everyNth;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

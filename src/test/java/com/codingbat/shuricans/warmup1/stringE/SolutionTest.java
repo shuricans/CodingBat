@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.stringE;
+package com.codingbat.shuricans.warmup1.stringE;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.delDel;
+package com.codingbat.shuricans.warmup1.delDel;
 
 /**
  * Warmup-1 > delDel

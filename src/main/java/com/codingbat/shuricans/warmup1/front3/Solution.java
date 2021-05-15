@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.front3;
+package com.codingbat.shuricans.warmup1.front3;
 
 /**
  * Warmup-1 > front3

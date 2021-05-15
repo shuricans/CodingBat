@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.intMax;
+package com.codingbat.shuricans.warmup1.intMax;
 
 /**
  * Warmup-1 > intMax

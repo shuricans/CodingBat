@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.icyHot;
+package com.codingbat.shuricans.warmup1.icyHot;
 
 /**
  * Warmup-1 > icyHot

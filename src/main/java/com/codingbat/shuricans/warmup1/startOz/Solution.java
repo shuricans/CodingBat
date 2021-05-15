@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.startOz;
+package com.codingbat.shuricans.warmup1.startOz;
 
 /**
  * Warmup-1 > startOz

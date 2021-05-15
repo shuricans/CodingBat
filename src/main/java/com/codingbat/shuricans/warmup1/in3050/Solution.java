@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.in3050;
+package com.codingbat.shuricans.warmup1.in3050;
 
 /**
  * Warmup-1 > in3050

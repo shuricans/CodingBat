@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.loneTeen;
+package com.codingbat.shuricans.warmup1.loneTeen;
 
 /**
  * Warmup-1 > loneTeen

@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.notString;
+package com.codingbat.shuricans.warmup1.notString;
 
 /**
  * Warmup-1 > notString

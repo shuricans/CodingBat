@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.parrotTrouble;
+package com.codingbat.shuricans.warmup1.parrotTrouble;
 
 /**
  * Warmup-1 > parrotTrouble

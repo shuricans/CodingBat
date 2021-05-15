@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.backAround;
+package com.codingbat.shuricans.warmup1.backAround;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

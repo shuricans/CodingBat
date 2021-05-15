@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.lastDigit;
+package com.codingbat.shuricans.warmup1.lastDigit;
 
 /**
  * Warmup-1 > lastDigit

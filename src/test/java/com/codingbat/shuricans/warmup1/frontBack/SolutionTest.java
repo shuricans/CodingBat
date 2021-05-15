@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.frontBack;
+package com.codingbat.shuricans.warmup1.frontBack;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

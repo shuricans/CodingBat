@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.posNeg;
+package com.codingbat.shuricans.warmup1.posNeg;
 
 
 /**

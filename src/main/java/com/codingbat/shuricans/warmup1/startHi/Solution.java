@@ -1,4 +1,4 @@
-package com.codingbat.shuricans.startHi;
+package com.codingbat.shuricans.warmup1.startHi;
 
 /**
  * Warmup-1 > startHi
